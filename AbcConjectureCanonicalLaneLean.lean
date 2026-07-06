@@ -1,0 +1,7 @@
+-- This module is the root of the AbcConjectureCanonicalLaneLean Lean proof package.
+import AbcConjectureCanonicalLaneLean.Basic
+import AbcConjectureCanonicalLaneLean.SourcePackage
+import AbcConjectureCanonicalLaneLean.SourceDependencies
+import AbcConjectureCanonicalLaneLean.Formalization
+import AbcConjectureCanonicalLaneLean.ReviewerBridge
+import AbcConjectureCanonicalLaneLean.TheoremStatement
