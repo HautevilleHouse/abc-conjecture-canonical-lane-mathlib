@@ -5,3 +5,4 @@ import AbcConjectureCanonicalLaneLean.SourceDependencies
 import AbcConjectureCanonicalLaneLean.Formalization
 import AbcConjectureCanonicalLaneLean.ReviewerBridge
 import AbcConjectureCanonicalLaneLean.TheoremStatement
+import AbcConjectureCanonicalLaneLean.MathlibStatement
